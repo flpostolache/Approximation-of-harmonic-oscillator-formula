@@ -1,3 +1,3 @@
-# Approximation-of-harmonic-oscilator-formula
+# Approximation-of-harmonic-oscillator-formula
 
-In this project, I approximate the formula of the harmonic oscilator using corrector predictor and runge kutta methods
+In this project, I approximate the formula of the harmonic oscillator using corrector predictor and runge kutta methods
